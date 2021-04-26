@@ -14,7 +14,7 @@ Beginning iOS developer. I love to learn new things and absord new information. 
 * Git
 
 ## Experience
-I have no experience in ios development
+I have no experience in ios development. But I'm currently studying ios development at TMS school, and hope to get a job in this field.
 
 ## Education
 * Belarusian National Tecnical University, engineer, 2011
