@@ -16,5 +16,10 @@ Beginning iOS developer. I love to learn new things and absord new information. 
 ## Experience
 I have no experience in ios development
 
+## Education
+* Belarusian National Tecnical University, engineer, 2011
+* Belarusian National Tecnical University, economist, 2011
+* Academy of Management under the President of the Republic of Belarus, economist-manager, 2020
+
 ## English
 A2+ level
